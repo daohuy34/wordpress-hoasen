@@ -1,0 +1,10 @@
+iframe {
+    /* width: 100% !important;
+    height: 100% !important; */
+}
+.current-item {
+    color: #ec5598 !important;
+}
+.active .page-link {
+    color: #ffffff !important;
+}

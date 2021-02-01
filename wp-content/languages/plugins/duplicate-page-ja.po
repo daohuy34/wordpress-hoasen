@@ -1,0 +1,121 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-11 13:45:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#: inc/admin-settings.php:50
+msgid "Classic Editor"
+msgstr "旧エディター"
+
+#: inc/admin-settings.php:51
+msgid "Gutenberg Editor"
+msgstr "Gutenberg エディター"
+
+#: inc/admin-settings.php:47
+msgid "Choose Editor"
+msgstr "エディターを選択"
+
+#: duplicatepage.php:302
+msgid "Duplicate This as "
+msgstr "以下として複製 "
+
+#: inc/admin-settings.php:63
+msgid "Pending"
+msgstr "保留中"
+
+#: inc/admin-settings.php:62
+msgid "Private"
+msgstr "非公開"
+
+#: inc/admin-settings.php:61
+msgid "Publish"
+msgstr "公開"
+
+#: inc/admin-settings.php:60
+msgid "Draft"
+msgstr "下書き"
+
+#: duplicatepage.php:71
+msgid "Settings"
+msgstr "設定"
+
+#: duplicatepage.php:211 duplicatepage.php:227
+msgid "Duplicate This"
+msgstr "複製"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:85
+msgid "Duplicate Page"
+msgstr "Duplicate Page"
+
+#: duplicatepage.php:72
+msgid "Donate"
+msgstr "寄付する"
+
+#: inc/admin-settings.php:78
+msgid "Duplicate Post Suffix"
+msgstr "投稿の接尾語を複製"
+
+#: inc/admin-settings.php:91
+msgid "Contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr "プラグインをより安定させるために、寄付をしてください。あなたが選んだ額を支払うことができます。"
+
+#: inc/admin-settings.php:11
+msgid "Buy PRO"
+msgstr "PRO 版を購入"
+
+#: inc/admin-settings.php:11
+msgid "Duplicate Page Settings "
+msgstr "ページ複製設定"
+
+#: inc/admin-settings.php:16
+msgid "<strong>Saving Please wait...</strong>"
+msgstr "<strong>保存中です。少々お待ちください...</strong>"
+
+#: inc/admin-settings.php:71
+msgid "To All Posts List"
+msgstr "すべての投稿一覧へ"
+
+#: inc/admin-settings.php:72
+msgid "To Duplicate Edit Screen"
+msgstr "複製編集画面へ"
+
+#: inc/admin-settings.php:57
+msgid "Duplicate Post Status"
+msgstr "投稿ステータスを複製"
+
+#: inc/admin-settings.php:69
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "<strong>このリンクを複製</strong>をクリックした後にリダイレクトする"
+
+#: inc/admin-settings.php:32
+msgid ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"updated settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>設定を保存しました。</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">この通知を取り消す。</span></button></div>"
+
+#: inc/admin-settings.php:35
+msgid ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>Settings not saved.</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">Dismiss this notice.</span></button></div>"
+msgstr ""
+"<div class=\"error settings-error notice is-dismissible\" id=\"setting-error-settings_updated\"> \n"
+"<p><strong>設定が保存されていません。</strong></p><button class=\"notice-dismiss\" type=\"button\"><span class=\"screen-reader-text\">この通知を取り消す。</span></button></div>"
+
+#: inc/admin-settings.php:65
+msgid "Please select any post status you want to assign for duplicate post. <strong>Default:</strong> Draft."
+msgstr "複製の投稿に割り当てる投稿ステータスを選択してください。 <strong>デフォルト: </strong>下書き。"
+
+#: inc/admin-settings.php:74
+msgid "Please select any post redirection, redirect you to selected after click on duplicate this link. <strong>Default:</strong> To current list."
+msgstr "このリンクを複製するをクリックした後、リダイレクト先の投稿を選択してください。 <strong>デフォルト: </strong>現在のリストへ。"
